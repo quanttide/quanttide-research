@@ -1,6 +1,6 @@
-[submodule "apps/qtacademics"]
-	path = apps/qtacademics
-	url = https://github.com/quanttide/qtacademics.git
+[submodule "apps/qtresearch"]
+	path = apps/qtresearch
+	url = https://github.com/quanttide/qtresearch.git
 [submodule "docs/specification"]
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-academic-research.git

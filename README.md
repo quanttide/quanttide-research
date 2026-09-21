@@ -1,10 +1,10 @@
-# quanttide-academics
+# quanttide-research
 
 量潮学术研究
 
 ## 概述
 
-量潮学术研究（quanttide-academics）是量潮知识管理体系中的**学术研究**领域，以管理实践方式承载学术成果整理、研究项目展示与学术交流协作。
+量潮学术研究（quanttide-research）是量潮知识管理体系中的**学术研究**领域，以管理实践方式承载学术成果整理、研究项目展示与学术交流协作。
 
 ## 领域边界
 
@@ -18,7 +18,7 @@
 
 | 路径 | 说明 |
 |------|------|
-| `apps/qtacademics` | 量潮学术，学术黄页 (git submodule → qtacademics，与 quanttide-platform/apps 共用) |
+| `apps/qtresearch` | 量潮学术，学术黄页 (git submodule → qtresearch，与 quanttide-platform/apps 共用) |
 | `packages/toolkit` | 共享库/工具集 |
 | `examples/default` | 学术研究实验室 |
 | `data/context` | 学术研究语境 (git submodule → quanttide-context-of-academic-research) |

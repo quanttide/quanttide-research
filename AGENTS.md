@@ -6,14 +6,14 @@
 
 ### 项目定位
 
-量潮学术研究（quanttide-academics）是量潮知识管理体系中的**学术研究**领域第二大脑，涵盖学术成果、研究项目与学术交流等核心能力。
+量潮学术研究（quanttide-research）是量潮知识管理体系中的**学术研究**领域第二大脑，涵盖学术成果、研究项目与学术交流等核心能力。
 
 ### 领域仓库统一结构
 
 ```
-quanttide-academics/
+quanttide-research/
 ├── apps/              # 可部署应用（qt{产品名} / qtcloud-{产品名}）
-├── packages/toolkit   # 共享库/工具集（独立仓库 quanttide-academics-toolkit）
+├── packages/toolkit   # 共享库/工具集（独立仓库 quanttide-research-toolkit）
 ├── examples/default   # 实验室（独立仓库 quanttide-laboratory-of-academic-research）
 ├── data/              # 数据类资产（context/journal/intention/profile/roadmap/insight/brochure 等）
 └── docs/              # 文档类资产（bylaw/handbook/specification/tutorial/essay/gallery）

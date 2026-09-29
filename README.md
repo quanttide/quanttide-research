@@ -20,7 +20,7 @@
 |------|------|
 | `apps/qtresearch` | 量潮学术，学术黄页 (git submodule → qtresearch，与 quanttide-platform/apps 共用) |
 | `packages/toolkit` | 共享库/工具集 |
-| `examples/default` | 学术研究实验室 |
+| `examples/quanttide-research-lab` | 学术研究实验室 |
 | `data/context` | 学术研究语境 (git submodule → quanttide-context-of-academic-research) |
 | `data/profile` | 学术研究工作档案 (git submodule → quanttide-profile-of-academic-research) |
 | `data/journal` | 学术研究工作日志 (git submodule → quanttide-journal-of-academic-research) |

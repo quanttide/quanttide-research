@@ -14,7 +14,7 @@
 quanttide-research/
 ├── apps/              # 可部署应用（qt{产品名} / qtcloud-{产品名}）
 ├── packages/toolkit   # 共享库/工具集（独立仓库 quanttide-research-toolkit）
-├── examples/default   # 实验室（独立仓库 quanttide-laboratory-of-academic-research）
+├── examples/quanttide-research-lab   # 实验室（独立仓库 quanttide-research-lab）
 ├── data/              # 数据类资产（context/journal/intention/profile/roadmap/insight/brochure 等）
 └── docs/              # 文档类资产（bylaw/handbook/specification/tutorial/essay/gallery）
 ```
